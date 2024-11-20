@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devx-full-stack-template/static/css/main.3e7ce444.css",
+    "main.js": "/devx-full-stack-template/static/js/main.472ab60e.js",
+    "index.html": "/devx-full-stack-template/index.html",
+    "main.3e7ce444.css.map": "/devx-full-stack-template/static/css/main.3e7ce444.css.map",
+    "main.472ab60e.js.map": "/devx-full-stack-template/static/js/main.472ab60e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e7ce444.css",
+    "static/js/main.472ab60e.js"
+  ]
+}
